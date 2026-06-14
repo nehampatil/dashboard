@@ -16,7 +16,7 @@ How is revenue performing, and which products are driving sales and returns?
 
 ## Dashboard Preview
 
-![Dashboard Overview](powerbi/dashboard-overview.png)
+![Dashboard Overview](Power%20bi/dashboard-overview.png)
 
 
 ## Key Metrics
